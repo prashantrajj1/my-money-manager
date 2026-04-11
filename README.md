@@ -58,3 +58,5 @@ Contributions are welcome! If you would like to contribute, please follow these 
 
 - Thanks to the Chart.js team for their excellent charting library.
 - Special thanks to the hackathon organizers for the opportunity to develop this project.
+- ## About
+   A money manager app built with love ❤️
