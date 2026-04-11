@@ -60,3 +60,4 @@ Contributions are welcome! If you would like to contribute, please follow these 
 - Special thanks to the hackathon organizers for the opportunity to develop this project.
 - ## About
    A money manager app built with love ❤️
+  @prashant
